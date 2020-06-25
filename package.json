@@ -1,0 +1,28 @@
+{
+  "name": "shayari-friend",
+  "version": "1.0.0",
+  "description": "shayari friend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohildev/shayari-friend.git"
+  },
+  "keywords": [
+    "shayari",
+    "friend"
+  ],
+  "author": "sohil mansuri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohildev/shayari-friend/issues"
+  },
+  "homepage": "https://github.com/sohildev/shayari-friend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
